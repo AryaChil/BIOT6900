@@ -1,0 +1,75 @@
+src,rel,dst,pvalue,source
+LY86,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+EVI2A,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+HLA-C,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+MX2,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+HLA-B,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+APP,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+HLA-DRB5,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+CD72,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+LRP10,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+NRIP1,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+SNX9,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+USP35,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+R3HDM4,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+TCL1A,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+CDC42BPB,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+ARID5B,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,1e-106,GWAS
+IKZF1,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,6e-55,GWAS
+CDKN2A,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,7e-14,GWAS
+GATA3,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,4e-14,GWAS
+CEBPE,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,5e-14,GWAS
+CD19,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+CD22,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+ABL1,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+TPMT,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+NUDT15,ASSOCIATED_WITH,Pediatric acute lymphoblastic leukemia,,pharmacology
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Anemia,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Thrombocytopenia,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Neutropenia,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Fever,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Bone pain,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Hepatosplenomegaly,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Lymphadenopathy,,
+Pediatric acute lymphoblastic leukemia,HAS_PHENOTYPE,Fatigue,,
+HLA-B,PARTICIPATES_IN,Interferon alpha/beta signaling,,
+HLA-C,PARTICIPATES_IN,Interferon alpha/beta signaling,,
+MX2,PARTICIPATES_IN,Interferon alpha/beta signaling,,
+HLA-B,PARTICIPATES_IN,Interferon gamma signaling,,
+HLA-C,PARTICIPATES_IN,Interferon gamma signaling,,
+HLA-DRB5,PARTICIPATES_IN,Interferon gamma signaling,,
+HLA-B,PARTICIPATES_IN,Class I MHC mediated antigen processing & presentation,,
+HLA-C,PARTICIPATES_IN,Class I MHC mediated antigen processing & presentation,,
+HLA-DRB5,PARTICIPATES_IN,MHC class II antigen presentation,,
+LY86,PARTICIPATES_IN,Toll Like Receptor 4 (TLR4) Cascade,,
+APP,PARTICIPATES_IN,Toll Like Receptor 4 (TLR4) Cascade,,
+CD19,PARTICIPATES_IN,Signaling by the B Cell Receptor (BCR),,
+CD22,PARTICIPATES_IN,Signaling by the B Cell Receptor (BCR),,
+CD72,PARTICIPATES_IN,Other semaphorin interactions,,
+ARID5B,PARTICIPATES_IN,Chromatin organization,,
+IKZF1,PARTICIPATES_IN,Chromatin organization,,
+CDKN2A,PARTICIPATES_IN,Oncogene Induced Senescence,,
+GATA3,PARTICIPATES_IN,RUNX1 regulates transcription of genes involved in differentiation of HSCs,,
+ABL1,PARTICIPATES_IN,RUNX1 regulates transcription of genes involved in differentiation of HSCs,,
+CEBPE,PARTICIPATES_IN,Transcriptional regulation of granulopoiesis,,
+TPMT,PARTICIPATES_IN,Azathioprine ADME,,
+NUDT15,PARTICIPATES_IN,Azathioprine ADME,,
+Blinatumomab,TARGETS,CD19,,
+Tisagenlecleucel,TARGETS,CD19,,
+Inotuzumab ozogamicin,TARGETS,CD22,,
+Imatinib,TARGETS,ABL1,,
+Dasatinib,TARGETS,ABL1,,
+rs10821936,OCCURS_IN,ARID5B,,
+rs4132601,OCCURS_IN,IKZF1,,
+rs3731217,OCCURS_IN,CDKN2A,,
+rs3824662,OCCURS_IN,GATA3,,
+rs2239633,OCCURS_IN,CEBPE,,
+rs1142345,OCCURS_IN,TPMT,,
+rs116855232,OCCURS_IN,NUDT15,,
+Acute myeloid leukemia,HAS_PHENOTYPE,Anemia,,
+Acute myeloid leukemia,HAS_PHENOTYPE,Thrombocytopenia,,
+Acute myeloid leukemia,HAS_PHENOTYPE,Neutropenia,,
+Acute myeloid leukemia,HAS_PHENOTYPE,Fever,,
+FLT3,ASSOCIATED_WITH,Acute myeloid leukemia,,GWAS
+Midostaurin,TARGETS,FLT3,,
+Gilteritinib,TARGETS,FLT3,,
